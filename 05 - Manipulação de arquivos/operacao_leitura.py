@@ -6,3 +6,4 @@ print(arquivo.readline())
 print(arquivo.readlines())
 
 arquivo.close()
+
